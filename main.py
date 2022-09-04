@@ -3,6 +3,9 @@
 # url = 'https://www.baidu.com/s?rtt=1&tn=news&rsv_dl=ns_pc&word=万东医疗'
 # res = requests.get(url,headers=headers).text
 # print(res)
-import requests
-response = requests.get(url='https://www.baidu.com/')
-print(response.text)
+# import requests
+# response = requests.get(url='https://www.baidu.com/')
+# print(response.text)
+a = (1,2,3,4,"哈哈","哈哈","xixi","xixi","hha","呵呵")
+b = (a,"喜喜","啊哈哈")
+print(a[0:2])
