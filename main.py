@@ -8,4 +8,4 @@
 # print(response.text)
 a = (1,2,3,4,"哈哈","哈哈","xixi","xixi","hha","呵呵")
 b = (a,"喜喜","啊哈哈")
-print(a[0:2])
+print(a[0:3])
